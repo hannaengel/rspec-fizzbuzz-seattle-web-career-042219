@@ -9,5 +9,3 @@ elsif n%3==0
     print "Buzz"
   end
 end
-
-
